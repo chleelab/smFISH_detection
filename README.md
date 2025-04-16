@@ -1,7 +1,7 @@
 1.	Overview
 smFISH_batchRun: A smFISH image processing tool for single-molecule RNA Detection and 3D reconstruction
 
-  •	smFISH_batchRun is a set of custom MATLAB scripts that allow us to detect both nuclear nascent transcripts at the active transcription sites (ATS) and mature cytoplasmic mRNAs with single-molecule precision and reconstruct the tissue in 3D for further analysis. 
+    •	smFISH_batchRun is a set of custom MATLAB scripts that allow us to detect both nuclear nascent transcripts at the active transcription sites (ATS) and mature cytoplasmic mRNAs with single-molecule precision and reconstruct the tissue in 3D for further analysis. 
 
   •	smFISH_batchRun consists of multiple implemented functions to aid in detection and two functions that aid in visualizing the detection
 
